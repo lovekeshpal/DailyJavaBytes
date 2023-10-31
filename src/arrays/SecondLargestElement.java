@@ -39,3 +39,4 @@ public class SecondLargestElement {
     }
 }
 
+// Output: The second largest number in the array is: 66
