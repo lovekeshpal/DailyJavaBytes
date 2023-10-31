@@ -1,3 +1,16 @@
+/*
+Problem #1 - Find the Second largest element in the array
+
+Input: Given a sequence of five numbers 2, 4, 5, 6, 8.
+
+Output:  6
+
+Explanation:
+In the given sequence of numbers, number 8 is the largest element, followed by number 6 which is the second-largest element.
+Hence we return number 6 which is the second-largest element in the sequence.
+*/
+
+
 package arrays;
 
 import java.util.Arrays;
